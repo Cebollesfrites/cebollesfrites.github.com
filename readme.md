@@ -1,4 +1,4 @@
-## (Nombre del proyecto)
+## Al extintor
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -8,13 +8,13 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Al extintor
 
-**Web:**   (url github.io)
+**Web:**   cebollesfrites.github.io
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Alicia Díez Ratón
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Al extintor es un pequeño juego con una orientación infantil. Consiste en guiar a Alex, una pequeña llama, que se ha separado de su madre por las diferentes salas de una mazmorra. La forma de avanzar es encontrando rastros de objetos quemados, 
 
 **Estilo/género:**  Novela / juego / portfolio / documental... etc.
 
