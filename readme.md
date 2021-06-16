@@ -14,29 +14,27 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Alicia Díez Ratón
 
-**Resumen** : Al extintor es un pequeño juego con una orientación infantil. Consiste en guiar a Alex, una pequeña llama, que se ha separado de su madre por las diferentes salas de una mazmorra. La forma de avanzar es encontrando rastros de objetos quemados, 
+**Resumen** : Al extintor es un pequeño juego con una orientación infantil. Consiste en guiar a Alex, una pequeña llama, que se ha separado de su madre por las diferentes salas de una mazmorra. La forma de avanzar es encontrando rastros de objetos quemados, ceniza, etc.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![imagen]
 
 (insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px no se puede reescalar 
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**   Google Chrome 
 
-**Tamaño proyecto:** 14MB 
+**Tamaño proyecto:** 63MB
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 16/06/2021
 
 **Medios** (donde se tiene presencia relacionada):
 
-- Github:
-- Twitter
-- Instagram
+- Github:Cebollesfrites
 
 
 ![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
@@ -44,10 +42,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+ El juego comienza con una pequeña animación de un pasillo que acaba dando a una puerta. Esta se abre y aparece el menú de inicio (la animación inicial se puede saltar con un botón de skip) en el que aparece el personaje y un tablón con dos papeles. Uno de ellos es el menú con las opciones play y galería y el otro explica en que consiste el juego. Además arriba a la derecha hay otro pequeño tablón que al pulsarlo lleva a los créditos. 
+ El botón galería lleva a otra pantalla en la que se pueden ver las imágenes usadas para la animación del principio. Al darle al botón play se pasa a otra habitación de la mazmorra en la que hay tres puertas y numerosos objetos. Cinco de esos objetos son interactivos, tres de ellos siendo opciones incorrectas y dos de ellos siendo correctas (las respuestas correctas son aquellas que están chamuscadas). Tienes dos vidas; al perderlas sale un cartel anunciando que has perdido y al pulsar una de las opciones correctas aparece otro cartel felicitándote y dando paso a lo que sería el siguiente nivel (esto es un nivel piloto por lo que no hay otro nivel).
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
 
 
 
@@ -73,20 +70,20 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
+- La estética está inspirada en la animación inicial de los episodios de Detective Conan.
+- El diseño del personaje está basado en el del personaje Fuego del juego Fuego y Agua.
 
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+El juego tiene un público objetivo infantil, a mí cuando era pequeña Fuego y Agua me marcó mucho y pensé en hacer algo similar dentro de los límites del programa. A partir de eso tomé la decisión de que se formasen niveles, siendo cada uno de ellos una habitación diferente con diversos objetos, algunos de los cuales sirviesen para avanzar la historia.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público entre los 7 y los 13, pero jugable para todos los públicos.
 
 
 
@@ -106,13 +103,12 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+Actualmente el único problema que no he conseguido resolver es que al ser los elementos interactivos botones en sí mismos, puedes pulsarlos varias veces accidentalmente, estropeando el sistema de vidas.
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+
 
 
 
