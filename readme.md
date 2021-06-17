@@ -37,7 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github:Cebollesfrites
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+![logo](https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/logo.png)
 
 # 2. Memoria del proyecto 
 
