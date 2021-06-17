@@ -52,7 +52,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+(https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/esquema%20alicia.jpg)
 
 
 
