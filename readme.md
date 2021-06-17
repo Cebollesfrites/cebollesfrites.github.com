@@ -52,7 +52,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/esquema%20alicia.jpg)
+![esquema](https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/esquema%20alicia.jpg)
 
 
 
