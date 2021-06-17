@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego
 
-**Logotipo** : ![imagen]
+**Logotipo** :
 
 
 ![logo](https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/logo.png)
