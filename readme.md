@@ -20,7 +20,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Logotipo** : ![imagen]
 
-(insertar imágenes a resolucion de 100px alto)
+
+![logo](https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/logo.png)
 
 **Resolución:** 800x600px no se puede reescalar 
 
@@ -37,7 +38,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github:Cebollesfrites
 
 
-![logo](https://github.com/Cebollesfrites/cebollesfrites.github.io/blob/master/logo.png)
 
 # 2. Memoria del proyecto 
 
